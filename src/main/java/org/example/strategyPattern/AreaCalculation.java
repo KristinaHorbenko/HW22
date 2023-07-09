@@ -1,4 +1,4 @@
-package org.example.StrategyPattern;
+package org.example.strategyPattern;
 
 public interface AreaCalculation {
     double calculateArea();

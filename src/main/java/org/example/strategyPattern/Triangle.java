@@ -1,4 +1,4 @@
-package org.example.StrategyPattern;
+package org.example.strategyPattern;
 
 public class Triangle implements AreaCalculation {
     private double base;

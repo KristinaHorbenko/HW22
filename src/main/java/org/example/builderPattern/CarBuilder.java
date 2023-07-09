@@ -1,4 +1,4 @@
-package org.example.BuilderPattern;
+package org.example.builderPattern;
 
 interface CarBuilder {
     void buildEngine();

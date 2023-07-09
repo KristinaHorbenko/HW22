@@ -1,4 +1,4 @@
-package org.example.BuilderPattern;
+package org.example.builderPattern;
 
 public class CarDirector {
     private CarBuilder carBuilder;

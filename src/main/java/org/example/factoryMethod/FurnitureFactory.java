@@ -1,4 +1,4 @@
-package org.example.FactoryMethod;
+package org.example.factoryMethod;
 
 public class FurnitureFactory {
     public static Furniture createFurniture(String type) {

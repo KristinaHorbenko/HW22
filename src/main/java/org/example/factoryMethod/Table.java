@@ -1,4 +1,4 @@
-package org.example.FactoryMethod;
+package org.example.factoryMethod;
 
 public class Table implements Furniture{
     @Override

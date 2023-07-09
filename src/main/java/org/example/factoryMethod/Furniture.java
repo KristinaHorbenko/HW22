@@ -1,4 +1,4 @@
-package org.example.FactoryMethod;
+package org.example.factoryMethod;
 
 interface Furniture {
     void production();

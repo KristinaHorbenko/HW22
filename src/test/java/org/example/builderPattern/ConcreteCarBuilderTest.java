@@ -1,4 +1,4 @@
-package org.example.BuilderPattern;
+package org.example.builderPattern;
 
 import org.junit.jupiter.api.Test;
 
